@@ -323,6 +323,48 @@ flex-grow: 0;
     margin-right: 2px;
     width: 1521px;
   }
+  .marketing{
+    width: 435px;
+height: 116px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 120%;
+display: flex;
+align-items: center;
+text-align: center;
+color: #091E80;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+  }
+  .move{
+    font-family: 'Poppins';
+    font-style: normal;
+    color: #091E80;
+  }
+  .branding{
+    color:black;
+  }
+  .marketing-details{
+    width: 750px;
+height: 108px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+display: flex;
+align-items: center;
+text-align: center;
+color: #333333;
+flex: none;
+order: 1;
+flex-grow: 0;
+
+  }
   
   .address {
     height: 108px;
